@@ -3,6 +3,8 @@
 # 💸 **AI-Powered Finance Platform**
 ### *Next-Generation Financial Intelligence & Analytics*
 
+**Check it out at : https://ai-powered-finance-platform.vercel.app/**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
