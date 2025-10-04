@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered"/>
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" alt="Production Ready"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License"/>
 </p>
 
 > 🚀 **Experience the future of personal finance management** with cutting-edge AI technology, seamless user experience, and enterprise-grade security. Built with modern web technologies for scalability, performance, and intelligent financial insights.
@@ -484,21 +483,20 @@ npm run db:seed
 
 ### 🎨 **Visual Experience**
 
-> 🚧 **Coming Soon**: Screenshots will be added once the application is deployed or running locally
+<!-- Top row: main feature screenshots -->
+<p align="center">
+  <img src="./public/image1.png" alt="Dashboard" width="320" style="margin:8px" />
+  <img src="./public/image2.png" alt="Analytics" width="320" style="margin:8px" />
+  <img src="./public/image3.png" alt="AI Insights" width="320" style="margin:8px" />
+</p>
 
-<table>
-<tr>
-<td align="center"><strong>🏠 Dashboard</strong></td>
-<td align="center"><strong>📊 Analytics</strong></td>
-<td align="center"><strong>🤖 AI Insights</strong></td>
-</tr>
-<tr>
-<td align="center">📱 <em>Main financial overview</em></td>
-<td align="center">📈 <em>Detailed spending analysis</em></td>
-<td align="center">🧠 <em>AI-powered recommendations</em></td>
-</tr>
-</table>
+<!-- Secondary row: mobile / detail views -->
+<p align="center">
+  <img src="./public/image4.png" alt="Mobile overview" width="320" style="margin:8px" />
+  <img src="./public/image5.png" alt="Spending analysis" width="320" style="margin:8px" />
+</p>
 
+<!-- Feature summary table -->
 <table>
 <tr>
 <td align="center"><strong>💳 Transactions</strong></td>
@@ -511,13 +509,6 @@ npm run db:seed
 <td align="center">🔧 <em>Profile & preference management</em></td>
 </tr>
 </table>
-
-```markdown
-<!-- Example of how to add screenshots when available -->
-![Dashboard](./public/screens/dashboard.png)
-![Analytics](./public/screens/analytics.png)
-![AI Insights](./public/screens/ai-insights.png)
-```
 
 </div>
 
@@ -629,31 +620,3 @@ npm run format
 </td>
 </tr>
 </table>
-
----
-
-## 📄 **License**
-
-<div align="center">
-
-### 📜 **Open Source & Free**
-
-<p>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
-</p>
-
-*This project is proudly open-source under the* **MIT License** 🎉
-
----
-
-### ⭐ **If you found this project helpful, please give it a star!** ⭐
-
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-💖%20and%20AI-red?style=for-the-badge" alt="Made with Love and AI"/>
-</p>
-
-**Built with passion for the future of financial technology** 🚀
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-</div>
