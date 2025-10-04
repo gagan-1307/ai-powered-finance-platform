@@ -42,7 +42,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.youtube.com/roadsidecoder">
+          <Link href="https://github.com/gagan-1307/ai-powered-finance-platform" target="_blank" rel="noopener noreferrer">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
@@ -51,9 +51,9 @@ const HeroSection = () => {
         <div className="hero-image-wrapper mt-5 md:mt-0">
           <div ref={imageRef} className="hero-image">
             <Image
-              src="/banner.jpeg"
-              width={1280}
-              height={720}
+              src="/banner.png"
+              width={800}
+              height={500}
               alt="Dashboard Preview"
               className="rounded-lg shadow-2xl border mx-auto"
               priority
